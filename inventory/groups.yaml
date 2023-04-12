@@ -1,0 +1,190 @@
+
+nexus-1smlg:
+  data:
+      voip: 11
+
+nexus-he: 
+  data:
+      voip: 11
+
+cisco-22gs: 
+  data:
+      voip: 28
+
+cisco-bw: 
+  data:
+      voip: 11
+
+cisco-bh: 
+  data:
+      voip: 23
+
+cisco-bid:
+  data:
+      voip: 111
+
+cisco-ci:
+  data:
+      voip: 3
+
+cisco-cw:
+  data:
+      voip: 7
+
+cisco-dh:
+  data:
+      voip: 14
+
+cisco-ch:
+  data:
+      voip: 18
+
+cisco-dev: 
+  data:
+      voip: 2
+
+cisco-edi:
+  data:
+      voip: 00
+
+cisco-mp:
+  data:
+      voip: 24
+
+cisco-ioo:
+  data:
+      voip: 25
+
+cisco-klb-edge-a:
+  data:
+      voip: 00
+
+cisco-klb-edge-b:
+  data:
+      voip: 15
+
+cisco-klb-edge-c:
+  data:
+      voip: 21
+
+cisco-lcn:
+  data:
+      voip: 00
+
+cisco-mrc-a/b:
+  data:
+     voip: 00
+
+cisco-msl-a/b:
+  data:
+     voip: 00
+
+cisco-phys:
+  data:
+      voip: 29
+
+cisco-sw:
+  data:
+      voip: 818
+
+cisco-qsq:
+  data:
+      voip: 16
+
+
+cisco-ioe:
+  data:
+      voip: 616
+
+cisco-fc:
+  data:
+      voip: 10
+
+cisco-rf:
+  data:
+      voip: 27
+
+cisco-rfc:
+  data:
+      voip: 12
+
+cisco-rf-b:
+  data:
+      voip: 31
+
+cisco-tp-edge:
+  data:
+      voip: 2
+
+cisco-eng:
+  data:
+      voip: 26
+
+cisco-sop:
+  data:
+      voip: 200
+
+cisco-1smlg:
+  data:
+      voip: 11
+
+cisco-cbh:
+  data:
+      voip: 32
+
+cisco-cruci:
+  data:
+      voip: 5
+
+Cisco-dw:
+  data:
+      voip: 22
+
+nexus-ioe-a:
+  data:
+      voip: 616
+
+cisco-ucle:
+  data:
+      voip: 00
+
+cisco-stan:
+  data:
+      voip: 00
+
+cisco-tp-a/b:
+  data:
+      voip: 00
+
+cisco-ulo:
+  data:
+      voip: 00
+
+Cisco-wt:
+  data:
+      voip: 00
+
+cisco-mssl-a/b:
+  data:
+      voip: 00
+
+cisco-zcr:
+  data:
+      voip: 00
+
+cisco-psw:
+  data:
+      voip: 00
+
+cisco-mg:
+  data:
+      voip: 00
+
+cisco-hor:
+  data:
+      voip: 00
+
+cisco-holborn:
+  data:
+      voip: 00
+
